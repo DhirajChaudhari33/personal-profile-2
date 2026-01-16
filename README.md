@@ -7,9 +7,7 @@ A clean and responsive personal profile web page built with HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-➡️ _Add your live demo link here if deployed (e.g., on GitHub Pages)_  
-Example:
-https://dhirajchaudhari33.github.io/personal-profile-2/
+➡️ https://dhirajchaudhari33.github.io/personal-profile-2/
 
 ---
 
